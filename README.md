@@ -1,7 +1,3 @@
-Here’s a well-structured README file for your Firebase Authentication project:
-
----
-
 # Firebase Auth App
 
 A simple React-based application demonstrating authentication using Firebase, including email/password and Google sign-in methods. This app uses Firebase's Authentication services alongside React Router for navigation and TailwindCSS for styling.
